@@ -1,0 +1,1 @@
+This is the foundations course for The Odin Project JavaScript curriculum
